@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["callbacks","Utilities to handle passing Rust code to s2n-tls’s C callbacks."],["config",""],["connection",""],["enums",""],["error",""],["init",""],["pool","Utilities to handle reusing connections."],["security",""]]};

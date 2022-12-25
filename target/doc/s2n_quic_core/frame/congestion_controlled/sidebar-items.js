@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"trait":[["CongestionControlled","Trait to retrieve CongestionControlled for a given value"]]};

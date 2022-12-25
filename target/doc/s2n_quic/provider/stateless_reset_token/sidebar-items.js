@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["Default",""]],"trait":[["Generator","A generator for a stateless reset token"],["Provider",""],["TryInto","Converts a value into a [`Provider`]"]]};

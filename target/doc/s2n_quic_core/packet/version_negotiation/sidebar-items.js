@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["VersionNegotiation",""],["VersionNegotiationIterator",""]],"type":[["CleartextVersionNegotiation",""],["EncryptedVersionNegotiation",""],["ProtectedVersionNegotiation",""]]};

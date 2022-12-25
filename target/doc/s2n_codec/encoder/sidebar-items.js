@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["buffer",""],["estimator",""],["value",""]],"trait":[["Encoder",""]]};

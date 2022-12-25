@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"macro":[["decoder_invariant",""],["decoder_parameterized_value",""],["decoder_value",""],["zerocopy_value_codec","Define a codec implementation for a zerocopy value that implements `FromBytes`, `AsBytes`, and `Unaligned`."]],"mod":[["decoder",""],["encoder",""],["unaligned",""],["zerocopy",""]]};

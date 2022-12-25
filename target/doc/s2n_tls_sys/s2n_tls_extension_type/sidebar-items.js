@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":[["ALPN",""],["CERTIFICATE_TRANSPARENCY",""],["EC_POINT_FORMATS",""],["MAX_FRAG_LEN",""],["OCSP_STAPLING",""],["RENEGOTIATION_INFO",""],["SERVER_NAME",""],["SIGNATURE_ALGORITHMS",""],["SUPPORTED_GROUPS",""]],"type":[["Type","TLS extensions supported by s2n-tls"]]};

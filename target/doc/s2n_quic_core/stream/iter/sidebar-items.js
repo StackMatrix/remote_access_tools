@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["StreamIter","An Iterator over Stream Ids of a particular type."]]};

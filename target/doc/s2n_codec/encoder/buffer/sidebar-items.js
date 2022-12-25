@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["EncoderBuffer","EncoderBuffer is a buffer for writing to a mutable slice"]]};

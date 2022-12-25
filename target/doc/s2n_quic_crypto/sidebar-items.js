@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["handshake",""],["initial",""],["one_rtt",""],["retry",""],["zero_rtt",""]],"struct":[["SecretPair",""],["Suite",""]]};

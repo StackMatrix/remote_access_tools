@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["application_is_trusted","Checks whether or not this application is a trusted accessibility client."],["application_is_trusted_with_prompt","Same as [application_is_trusted], but also shows the user a prompt asking them to allow accessibility API access if it hasn’t already been given."]]};

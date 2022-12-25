@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"trait":[["Entry","An entry in a Rx queue"],["Queue","A structure capable of queueing and receiving messages"]]};

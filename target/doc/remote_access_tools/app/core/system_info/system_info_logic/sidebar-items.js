@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["cpu",""],["disk",""],["get_info",""],["network",""],["process",""],["ram_swap",""],["system",""]],"opaque":[["",""]]};

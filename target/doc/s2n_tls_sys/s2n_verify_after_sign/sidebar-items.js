@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":[["VERIFY_AFTER_SIGN_DISABLED",""],["VERIFY_AFTER_SIGN_ENABLED",""]],"type":[["Type",""]]};

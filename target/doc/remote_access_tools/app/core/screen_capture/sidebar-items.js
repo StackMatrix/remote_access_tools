@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["screen_capture_logic",""],["screen_capture_state",""]]};

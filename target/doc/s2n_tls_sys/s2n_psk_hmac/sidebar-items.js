@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":[["SHA256",""],["SHA384",""]],"type":[["Type","Pre-shared key (PSK) Hash Algorithm - RFC 8446 Section-2.2"]]};

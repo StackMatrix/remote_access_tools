@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":[["INTEGRITY_TAG_LEN",""],["NONCE_BYTES",""],["SECRET_KEY_BYTES",""]],"mod":[["example",""]],"trait":[["RetryKey",""]],"type":[["IntegrityTag",""]]};

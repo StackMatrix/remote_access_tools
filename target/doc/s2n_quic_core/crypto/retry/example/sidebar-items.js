@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":[["DCID",""],["EXPECTED_TAG",""],["INVALID_PACKET_NO_TOKEN",""],["INVALID_PACKET_NO_TOKEN_LEN",""],["ODCID",""],["PACKET",""],["PACKET_LEN",""],["PSEUDO_PACKET",""],["SCID",""],["TOKEN",""],["TOKEN_LEN",""],["VERSION",""]]};

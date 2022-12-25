@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["keyboard_listen",""],["screen_capture",""],["system_info",""],["thread_manager",""]]};

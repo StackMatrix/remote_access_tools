@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["Probe","Describes if a frame is probing"]],"trait":[["Probing","Trait to retrieve if a frame is probing"]]};

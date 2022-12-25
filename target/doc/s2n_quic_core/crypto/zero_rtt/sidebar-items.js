@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"trait":[["ZeroRttHeaderKey","Types for which are able to perform 0-RTT header cryptography."],["ZeroRttKey","Types for which are able to perform 0-RTT cryptography."]],"type":[["ZeroRttSecret","ZeroRTT Secret tokens are always 32 bytes"]]};

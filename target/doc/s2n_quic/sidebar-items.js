@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["application",""],["client",""],["connection",""],["provider",""],["server",""],["stream",""]]};

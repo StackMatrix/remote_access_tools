@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["Code",""],["Error","Transport Errors are 62-bit unsigned integer values indicating a QUIC transport error has occurred, as defined in QUIC Transport RFC."]]};

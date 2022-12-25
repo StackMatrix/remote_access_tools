@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":[["FAST",""],["STRICT",""]],"type":[["Type","Sets whether or not a connection should enforce strict signature validation during the `s2n_async_pkey_op_apply` call."]]};

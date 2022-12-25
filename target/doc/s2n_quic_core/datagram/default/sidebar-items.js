@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["BuilderError",""],["DatagramError",""]],"struct":[["Datagram",""],["Endpoint","Handles configuring unreliable datagram support."],["EndpointBuilder","A builder for the default datagram endpoint"],["Receiver","Handles receiving unreliable datagrams."],["Sender","A struct to handle sending unreliable datagrams."]]};

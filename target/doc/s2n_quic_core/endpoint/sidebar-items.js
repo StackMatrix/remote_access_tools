@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["Location","Enumerates endpoint locations"],["Type","Enumerates endpoint types"]],"mod":[["limits",""]],"struct":[["CloseError","Indicates the endpoint is no longer processing connections."],["Wakeups","A future which polls an endpoint for application-space wakeups"]],"trait":[["Endpoint","The main interface for a QUIC endpoint"]]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":[["MAX_VARINT_VALUE",""]],"struct":[["VarInt",""],["VarIntError",""]]};

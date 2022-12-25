@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["Builder","A builder for [`Format`] providers"],["Format","Randomly generated connection Id format."],["Provider",""]]};

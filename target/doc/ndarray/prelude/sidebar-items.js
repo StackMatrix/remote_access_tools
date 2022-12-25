@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"macro":[["array","Create an [`Array`] with one, two or three dimensions."],["azip","Array zip macro: lock step function application across several arrays and producers."],["s","Slice argument constructor."]]};

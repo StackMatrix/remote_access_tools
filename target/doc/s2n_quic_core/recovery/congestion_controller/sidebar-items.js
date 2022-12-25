@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["PathInfo",""],["PathPublisher","Wrapper around a `ConnectionPublisher` that forwards congestion control related events to the inner publisher with the necessary context."]],"trait":[["CongestionController",""],["Endpoint",""],["Publisher",""]]};

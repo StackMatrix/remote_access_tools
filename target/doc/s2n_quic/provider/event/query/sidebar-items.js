@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["ControlFlow","Used to tell a query whether it should exit early or go on as usual."],["Error","Reason for the failed query."]],"struct":[["Once","A type that implements Query and QueryMut traits and only executes once."]],"trait":[["Query",""],["QueryMut",""]]};

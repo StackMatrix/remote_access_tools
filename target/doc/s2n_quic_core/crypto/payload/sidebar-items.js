@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["EncryptedPayload","Type which restricts access to encrypted payloads"],["ProtectedPayload","Type which restricts access to protected and encrypted payloads."]]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["CryptoError","Error type for crypto-related errors"]]};

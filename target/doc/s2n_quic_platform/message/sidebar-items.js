@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["cmsg",""],["msg",""],["queue",""],["simple",""]],"trait":[["Message","An abstract message that can be sent and received on a network"],["Ring","A message ring used to back a queue"]]};

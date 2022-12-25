@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["Context",""],["ErrorSource",""],["ErrorType",""]],"struct":[["Error",""]],"trait":[["Fallible",""],["Pollable",""]]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["CleartextPacket",""],["ProtectedPacket",""]],"mod":[["decoding",""],["encoding",""],["handshake",""],["initial",""],["interceptor",""],["key_phase",""],["long",""],["number",""],["retry",""],["short",""],["stateless_reset",""],["version_negotiation",""],["zero_rtt",""]],"trait":[["PacketDecoder",""]],"type":[["RemainingBuffer",""]]};

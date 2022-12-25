@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":[["CLIENT",""],["SERVER",""]],"type":[["Type","Used to declare connections as server or client type, respectively."]]};

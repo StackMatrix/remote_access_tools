@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"trait":[["Unspecified","A trait to determine if the value is left unspecified, usually containing the default value."]]};

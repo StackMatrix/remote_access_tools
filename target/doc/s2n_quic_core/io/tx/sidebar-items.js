@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["Error",""]],"struct":[["Outcome",""],["PayloadBuffer",""]],"trait":[["Entry","An entry in a Tx queue"],["Message","Abstraction over a message to be sent on a socket"],["Queue","A structure capable of queueing and transmitting messages"]]};

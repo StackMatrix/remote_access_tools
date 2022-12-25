@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["Counter","A checked-overflow counter"],["Saturating","Overrides the behavior of a counter to always saturate"]]};

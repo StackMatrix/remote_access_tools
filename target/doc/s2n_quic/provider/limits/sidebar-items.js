@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["default",""]],"struct":[["ConnectionInfo",""],["Limits",""]],"trait":[["Limiter","Creates limits for a given connection"],["Provider",""],["TryInto","Converts a value into a [`Provider`]"]]};

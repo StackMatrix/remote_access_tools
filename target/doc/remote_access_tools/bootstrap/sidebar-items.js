@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["app_logic",""],["app_state",""]]};

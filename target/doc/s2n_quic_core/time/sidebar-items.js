@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["timer",""]],"struct":[["Duration","A `Duration` type to represent a span of time, typically used for system timeouts."],["NoopClock","A clock which always returns a Timestamp of value 1us"],["StdClock",""],["Timestamp","An absolute point in time."]],"trait":[["Clock","A `Clock` is a source of [`Timestamp`]s."]]};

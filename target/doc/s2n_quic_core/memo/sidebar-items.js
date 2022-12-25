@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["ConsistencyCheckAlways",""],["ConsistencyCheckNever",""],["Memo","A datastructure that memoizes a query function"]],"trait":[["ConsistencyCheck","Trait to configure consistency checking behavior"]],"type":[["DefaultConsistencyCheck",""]]};

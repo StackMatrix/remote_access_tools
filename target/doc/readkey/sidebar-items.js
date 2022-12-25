@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["Keycode","Carbon’s virtual keycodes, found here."]]};

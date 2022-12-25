@@ -1,4 +1,0 @@
-(function() {var implementors = {
-"s2n_quic_core":[["impl&lt;T&gt; <a class=\"trait\" href=\"s2n_quic_core/ct/trait.ConditionallySelectable.html\" title=\"trait s2n_quic_core::ct::ConditionallySelectable\">ConditionallySelectable</a> for <a class=\"struct\" href=\"s2n_quic_core/ct/struct.Number.html\" title=\"struct s2n_quic_core::ct::Number\">Number</a>&lt;T&gt;<span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;T: <a class=\"trait\" href=\"s2n_quic_core/ct/trait.ConditionallySelectable.html\" title=\"trait s2n_quic_core::ct::ConditionallySelectable\">ConditionallySelectable</a>,</span>"]],
-"subtle":[]
-};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

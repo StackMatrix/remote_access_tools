@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["Request","A request on a `rx` stream"],["Response","The result of a pop operation"]]};

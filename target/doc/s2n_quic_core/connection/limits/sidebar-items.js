@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["ConnectionInfo",""],["Limits",""]],"trait":[["Limiter","Creates limits for a given connection"]]};

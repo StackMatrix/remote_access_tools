@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["DecoderBufferMut","DecoderBufferMut is a panic-free, mutable byte buffer for decoding untrusted input"]],"type":[["DecoderBufferMutResult",""]]};

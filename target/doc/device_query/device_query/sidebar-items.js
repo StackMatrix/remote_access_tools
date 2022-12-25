@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"trait":[["DeviceQuery","Trait to get the state of the supported devices."]]};

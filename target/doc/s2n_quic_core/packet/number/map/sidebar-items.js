@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["Iter","An iterator over all of the contained packet numbers"],["Map","A data structure for tracking packets that are pending acknowledgement"],["RemoveIter","An iterator which removes a set of packet numbers in a range"]]};

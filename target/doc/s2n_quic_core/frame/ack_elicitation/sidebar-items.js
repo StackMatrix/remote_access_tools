@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["AckElicitation","Describes if a frame or packet requires an ACK from the peer"]],"trait":[["AckElicitable","Trait to retrieve the AckElicitation for a given value"]]};

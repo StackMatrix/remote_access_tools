@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["EncoderLenEstimator","Estimates the `encoding_size` of an `EncoderValue`"]]};

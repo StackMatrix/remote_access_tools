@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["system_info_logic",""],["system_info_state",""]]};

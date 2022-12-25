@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":[["default","Provides the recommended implementation of TLS using platform detection"]],"struct":[["Default",""]],"trait":[["Provider",""],["TryInto","Converts a value into a [`Provider`]"]]};

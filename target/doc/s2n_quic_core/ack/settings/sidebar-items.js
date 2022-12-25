@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["Settings","Settings for ACK frames"]]};

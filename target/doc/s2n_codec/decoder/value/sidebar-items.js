@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"trait":[["DecoderParameterizedValue","A value whose decoding implementation can be altered by a provided parameter."],["DecoderParameterizedValueMut","A mutable value whose decoding implementation can be altered by a provided parameter."],["DecoderValue",""],["DecoderValueMut",""]]};

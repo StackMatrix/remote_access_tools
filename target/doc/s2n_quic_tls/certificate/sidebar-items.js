@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["Certificate",""],["PrivateKey",""]],"trait":[["IntoCertificate",""],["IntoPrivateKey",""]]};

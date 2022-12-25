@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":[["Source",""]],"struct":[["Context",""]],"trait":[["Format",""]]};

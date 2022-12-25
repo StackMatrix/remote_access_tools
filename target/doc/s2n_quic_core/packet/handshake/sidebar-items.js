@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["Handshake",""]],"type":[["CleartextHandshake",""],["EncryptedHandshake",""],["ProtectedHandshake",""]]};

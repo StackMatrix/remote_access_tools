@@ -1,3 +1,0 @@
-(function() {var implementors = {
-"s2n_quic_crypto":[["impl <a class=\"trait\" href=\"s2n_quic_core/crypto/zero_rtt/trait.ZeroRttHeaderKey.html\" title=\"trait s2n_quic_core::crypto::zero_rtt::ZeroRttHeaderKey\">ZeroRttHeaderKey</a> for <a class=\"struct\" href=\"s2n_quic_crypto/zero_rtt/struct.ZeroRttHeaderKey.html\" title=\"struct s2n_quic_crypto::zero_rtt::ZeroRttHeaderKey\">ZeroRttHeaderKey</a>"]]
-};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
