@@ -1,3 +1,0 @@
-cargo:rustc-link-lib=static=ring-core
-cargo:rustc-link-lib=static=ring-test
-cargo:rustc-link-search=native=/Users/stack/Project/rust/remote_access_tools/target/release/build/ring-00d97f7b73f424db/out
