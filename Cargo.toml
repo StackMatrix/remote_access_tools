@@ -1,0 +1,70 @@
+[package]
+name = "remote_access_tools"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# 优化- 移除 panic 相关字符串
+# std = { default-features = false, features=[ "panic_immediate_abort" ] }
+
+# 系统信息的库
+sysinfo = "0.27.0"
+
+# 一个无需活动窗口即可查询鼠标和键盘状态的简单库，适用于 Windows、Linux 和 macOS
+device_query = "1.1.1"
+
+# 日期和时间库
+chrono = "0.4.23"
+
+# 提供了对 Rust 基本数据类型的序列化功能
+serde = { version = "1.0.148", features = ["derive"] }
+serde_json = "1.0.89"
+
+# 并发编程的工具
+# crossbeam = "0.8.2"
+rayon = "1.6.1"
+
+# 事件驱动的非阻塞 I/O 平台
+tokio = { version = "1.23.0", features = ["full"] }
+
+# 屏幕捕捉和摄像头捕捉
+# screenshots = "0.4.5"
+scrap = "0.5.0"
+# camera_capture = "0.5.0"
+
+# 压缩库
+zstd = "0.12.1+zstd.1.5.2"
+
+# 网络库
+# quinn = "0.9.3"
+s2n-quic = "1.13.0"
+webpki = "0.22.0"
+rustls = "0.20.7"
+# reqwest = "0.11.13"
+anyhow = "1.0.66"
+
+# 加密库
+ring = "0.16.20"
+
+# 图片处理
+ndarray = "0.15.6"
+ndarray-npy = { version = "0.8.1", default-features = false }
+image = "0.24.5"
+# repng = "0.2.2"
+
+
+[profile.release]
+debug = false
+opt-level = 'z' # 调整优化等级
+lto = true # 开启 LTO
+codegen-units = 1 # 调整并行代码生成单元数量
+panic = 'abort' # Panic 时立刻终止
+strip = true # 裁剪
+# 编译命令：cargo build --release 
+# 裁剪命令：strip  target/release/remote_access_tools
+# 绘制依赖图：cargo deps | dot -Tpng > graph.png ，在 mac 上需要安装：brew install graphviz 和 cargo install cargo-deps
+# 查看各个 crate 所占体积: cargo bloat --release --crates，需要安装：cargo install cargo-bloat
+# upx: upx -9 target/release/remote_access_tools ，mac 安装：brew install --build-from-source upx
+# aarch64-apple-darwin

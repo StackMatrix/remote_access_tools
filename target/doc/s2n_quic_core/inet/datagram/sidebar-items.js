@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["AncillaryData","Additional metadata for a datagram sent/received over the network"],["DatagramInfo","Metadata for a datagram sent/received over the network"],["Header","Header information for a datagram sent/received over the network"]]};

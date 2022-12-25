@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["certificate",""],["client",""],["server",""]],"struct":[["ConnectionContext",""]],"trait":[["ConfigLoader","Loads a config for a given connection"]]};

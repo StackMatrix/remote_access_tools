@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["ANONYMOUS",""],["ECDSA",""],["RSA",""],["RSA_PSS_PSS",""],["RSA_PSS_RSAE",""]],"type":[["Type","TLS Signature Algorithms - RFC 5246 7.4.1.4.1 https://www.iana.org/assignments/tls-parameters/tls-parameters.xhtml#tls-parameters-16"]]};

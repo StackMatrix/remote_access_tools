@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":[["Key","A trait for crypto keys"]]};

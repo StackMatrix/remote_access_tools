@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"s2n_quic_transport":[["impl&lt;Cfg:&nbsp;<a class=\"trait\" href=\"s2n_quic_transport/endpoint/trait.Config.html\" title=\"trait s2n_quic_transport::endpoint::Config\">Config</a>&gt; <a class=\"trait\" href=\"s2n_quic_transport/endpoint/trait.Endpoint.html\" title=\"trait s2n_quic_transport::endpoint::Endpoint\">Endpoint</a> for <a class=\"struct\" href=\"s2n_quic_transport/endpoint/struct.Endpoint.html\" title=\"struct s2n_quic_transport::endpoint::Endpoint\">Endpoint</a>&lt;Cfg&gt;"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

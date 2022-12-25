@@ -1,0 +1,7 @@
+[dependencies]
+std = { default-features = false }
+# cargo install xargo
+# 然后编译（target 请自行调整）
+# rustc -vV
+# aarch64-apple-darwin
+# xargo build --target aarch64-apple-darwin --release

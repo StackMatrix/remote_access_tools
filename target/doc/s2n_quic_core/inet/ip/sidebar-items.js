@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["IpAddress","An IP address, either IPv4 or IPv6."],["IpAddressRef",""],["SocketAddress","An IP socket address, either IPv4 or IPv6, with a specific port."],["SocketAddressRef","An IP socket address, either IPv4 or IPv6, with a specific port."],["UnicastScope",""]]};

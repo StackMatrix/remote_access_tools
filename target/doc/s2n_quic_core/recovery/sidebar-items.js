@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["DEFAULT_INITIAL_RTT",""],["K_GRANULARITY",""],["MAX_BURST_PACKETS",""]],"mod":[["bandwidth",""],["bbr",""],["congestion_controller",""],["cubic",""]],"struct":[["RttEstimator",""],["SentPacketInfo",""]],"type":[["SentPackets",""]]};

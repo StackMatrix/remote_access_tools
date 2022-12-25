@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ConnectionInfo",""],["Limits",""],["ValidationError",""]],"trait":[["Limiter","Creates limits for a given connection"]]};

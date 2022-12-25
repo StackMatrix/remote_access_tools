@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["CubicCongestionController","A congestion controller that implements “CUBIC for Fast Long-Distance Networks” as specified in https://tools.ietf.org/html/rfc8312. The Hybrid Slow Start algorithm is used for determining the slow start threshold."],["Endpoint",""]]};

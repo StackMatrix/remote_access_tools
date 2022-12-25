@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["CGError",""],["PixelFormat",""]],"struct":[["Capturer",""],["Config",""],["Display",""],["Frame",""]]};

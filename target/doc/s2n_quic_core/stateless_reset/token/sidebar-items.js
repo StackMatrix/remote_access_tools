@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["LEN",""]],"struct":[["Token",""]],"trait":[["Generator","A generator for a stateless reset token"]]};

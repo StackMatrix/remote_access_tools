@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Builder","Allows the endpoint limits to be built with specific values"],["Limits",""]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["SpinBit",""]],"struct":[["Short",""]],"type":[["CleartextShort",""],["EncryptedShort",""],["ProtectedShort",""]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["error","Defines QUIC Application Error Codes"]],"struct":[["Error","Application Error Codes are 62-bit unsigned integer values which may be used by applications to exchange errors."],["ServerName","ServerName holds a negotiated Server Name Indication value, encoded as UTF-8."]]};

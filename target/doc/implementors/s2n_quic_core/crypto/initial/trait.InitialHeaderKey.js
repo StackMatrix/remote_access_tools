@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"s2n_quic_crypto":[["impl <a class=\"trait\" href=\"s2n_quic_core/crypto/initial/trait.InitialHeaderKey.html\" title=\"trait s2n_quic_core::crypto::initial::InitialHeaderKey\">InitialHeaderKey</a> for <a class=\"struct\" href=\"s2n_quic_crypto/initial/struct.InitialHeaderKey.html\" title=\"struct s2n_quic_crypto::initial::InitialHeaderKey\">InitialHeaderKey</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

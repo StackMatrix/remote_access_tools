@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":[["Set","A set of Acknowledgments"]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["FAIL_ON_WARNINGS",""],["IGNORE_WARNINGS",""]],"type":[["Type","Sets whether or not a connection should terminate on receiving a WARNING alert from its peer."]]};

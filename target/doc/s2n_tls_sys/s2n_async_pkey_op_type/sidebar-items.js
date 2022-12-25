@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["DECRYPT",""],["SIGN",""]],"type":[["Type","The type of private key operation"]]};

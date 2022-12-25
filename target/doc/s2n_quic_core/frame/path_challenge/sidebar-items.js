@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["DATA_LEN",""]],"struct":[["PathChallenge",""]]};

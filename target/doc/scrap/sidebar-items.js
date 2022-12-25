@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["quartz",""]],"struct":[["Capturer",""],["Display",""],["Frame",""]]};

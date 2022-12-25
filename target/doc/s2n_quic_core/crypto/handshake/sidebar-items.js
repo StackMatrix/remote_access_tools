@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":[["HandshakeHeaderKey","Types for which are able to perform handshake header cryptography."],["HandshakeKey","Types for which are able to perform handshake cryptography."]]};

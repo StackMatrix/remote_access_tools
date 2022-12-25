@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["take","开启捕捉屏幕"]],"opaque":[["",""]]};

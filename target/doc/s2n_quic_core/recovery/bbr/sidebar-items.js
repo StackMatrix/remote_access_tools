@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["BbrCongestionController","A congestion controller that implements “Bottleneck Bandwidth and Round-trip propagation time” version 2 (BBRv2) as specified in https://datatracker.ietf.org/doc/draft-cardwell-iccrg-bbr-congestion-control/."],["Endpoint",""]]};

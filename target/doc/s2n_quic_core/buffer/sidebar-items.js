@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["ReceiveBufferError","Enumerates error that can occur while inserting data into the Receive Buffer"]],"struct":[["Iter",""],["ReceiveBuffer","`ReceiveBuffer` is a buffer structure for combining chunks of bytes in an ordered stream, which might arrive out of order."]]};

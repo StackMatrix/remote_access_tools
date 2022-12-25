@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Context",""],["Development","A formatter that passes errors through, unmodified"],["Production","A formatter that removes potentially sensitive information"]],"trait":[["Formatter","Provides a hook for applications to rewrite CONNECTION_CLOSE frames"]]};

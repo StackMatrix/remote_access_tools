@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Error","Application Error Codes are 62-bit unsigned integer values which may be used by applications to exchange errors."]],"trait":[["TryInto","Conversion trait for errors that have an associated [`Error`]"]]};

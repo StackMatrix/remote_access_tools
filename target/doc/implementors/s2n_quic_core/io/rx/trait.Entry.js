@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"s2n_quic_platform":[["impl <a class=\"trait\" href=\"s2n_quic_core/io/rx/trait.Entry.html\" title=\"trait s2n_quic_core::io::rx::Entry\">Entry</a> for <a class=\"struct\" href=\"s2n_quic_platform/message/msg/struct.Message.html\" title=\"struct s2n_quic_platform::message::msg::Message\">Message</a>"],["impl <a class=\"trait\" href=\"s2n_quic_core/io/rx/trait.Entry.html\" title=\"trait s2n_quic_core::io::rx::Entry\">Entry</a> for <a class=\"struct\" href=\"s2n_quic_platform/message/simple/struct.Message.html\" title=\"struct s2n_quic_platform::message::simple::Message\">Message</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

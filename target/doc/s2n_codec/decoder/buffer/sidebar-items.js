@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["DecoderBuffer","DecoderBuffer is a panic-free byte buffer for look-ahead decoding untrusted input"]],"type":[["DecoderBufferResult",""]]};

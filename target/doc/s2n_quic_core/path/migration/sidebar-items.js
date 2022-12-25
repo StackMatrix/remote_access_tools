@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["DenyReason",""],["Outcome",""]],"mod":[["default",""],["disabled",""]],"struct":[["Attempt",""],["AttemptBuilder",""],["PacketInfo",""],["PacketInfoBuilder",""]],"trait":[["Validator","Validates a path migration attempt from an active path to another"]]};

@@ -1,0 +1,1 @@
+{"rustc":4752472942273568657,"features":"[\"alloc\", \"default\"]","target":1928798879819906648,"profile":13273598295226313782,"path":11240865686567340540,"deps":[[9750359246798257279,"memoffset",false,2433233402776906966]],"local":[{"Precalculated":"0.9.4"}],"rustflags":[],"metadata":3125194375893666505,"config":2202906307356721367,"compile_kind":0}

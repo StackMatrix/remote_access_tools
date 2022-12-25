@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["NONE",""],["OCSP",""]],"type":[["Type","Enum used to define the type, if any, of certificate status request an S2N_CLIENT should make during the handshake. The only supported status request type is OCSP, `S2N_STATUS_REQUEST_OCSP`."]]};

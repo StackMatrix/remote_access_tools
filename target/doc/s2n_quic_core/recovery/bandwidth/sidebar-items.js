@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Bandwidth","Represents a rate at which data is transferred"],["Estimator","Bandwidth estimator as defined in Delivery Rate Estimation and BBR Congestion Control."],["PacketInfo","Bandwidth-related data tracked for each sent packet"],["RateSample","A bandwidth delivery rate estimate with associated metadata"]]};

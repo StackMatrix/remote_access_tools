@@ -1,0 +1,1 @@
+{"rustc":4752472942273568657,"features":"","target":0,"profile":0,"path":0,"deps":[[6597564319215557603,"build_script_build",false,2193770268882337595]],"local":[{"RerunIfChanged":{"output":"aarch64-apple-darwin/release/build/log-96d30ed33edf14f0/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

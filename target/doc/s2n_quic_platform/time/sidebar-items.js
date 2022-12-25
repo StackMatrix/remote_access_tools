@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["clock","Returns a reference to the clock."],["now","Returns the current [`Timestamp`] according to the system clock"]]};

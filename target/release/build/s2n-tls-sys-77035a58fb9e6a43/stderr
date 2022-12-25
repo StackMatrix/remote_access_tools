@@ -1,0 +1,7 @@
+cargo:rerun-if-env-changed=S2N_TLS_DIR
+cargo:rerun-if-env-changed=S2N_TLS_LIB_DIR
+cargo:rerun-if-env-changed=S2N_TLS_INCLUDE_DIR
+cargo:rerun-if-env-changed=CARGO_FEATURE_PQ
+cargo:rerun-if-env-changed=DEP_OPENSSL_INCLUDE
+cargo:rerun-if-env-changed=PROFILE
+cargo:rerun-if-env-changed=OUT_DIR

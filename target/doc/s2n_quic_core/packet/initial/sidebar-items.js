@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Initial",""]],"type":[["CleartextInitial",""],["EncryptedInitial",""],["ProtectedInitial",""]]};

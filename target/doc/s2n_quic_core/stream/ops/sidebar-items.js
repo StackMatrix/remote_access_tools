@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Status",""]],"mod":[["rx","Request and response related to receiving on a stream"],["tx","Request and response related to transmitting on a stream"]],"struct":[["Bytes",""],["Chunks",""],["Request","A request made on a stream"],["Response","A response received after executing a request"]]};

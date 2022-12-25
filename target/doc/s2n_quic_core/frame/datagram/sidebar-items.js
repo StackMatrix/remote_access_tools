@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["DATAGRAM_TAG",""]],"struct":[["Datagram",""]],"type":[["DatagramMut",""],["DatagramRef",""]]};

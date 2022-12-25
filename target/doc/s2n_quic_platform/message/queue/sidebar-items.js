@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Queue","Structure for queueing network messages"],["Slice","A view of the currently enqueued messages for a given segment"]],"trait":[["Behavior","Trait which defines slice behavior on success and cancellation"]],"type":[["Free",""],["Occupied",""]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["CLIENT_IN",""],["QUIC_HP_16",""],["QUIC_HP_32",""],["QUIC_IV_12",""],["QUIC_KEY_16",""],["QUIC_KEY_32",""],["QUIC_KU_16",""],["QUIC_KU_32",""],["QUIC_KU_48",""],["SERVER_IN",""]],"fn":[["compute_label","Computes the label given the key len"]]};

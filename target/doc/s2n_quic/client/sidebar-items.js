@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Builder","A builder for configuring [`Client`] providers"],["Client","A QUIC client endpoint, capable of opening connections"],["Connect",""],["ConnectionAttempt",""],["DefaultProviders","The recommended providers for the endpoint."]],"trait":[["ClientProviders","Opaque trait containing all of the configured providers"]]};

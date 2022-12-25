@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["MAX_LEN","The maximum number of bytes allocated for cmsg data"]],"fn":[["decode","Decodes all recognized control messages in the given `msghdr` into `AncillaryData`"]],"trait":[["Encoder",""]]};

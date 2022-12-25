@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Limits","Per-stream limits"],["LocalBidirectional",""],["LocalUnidirectional",""],["MaxSendBufferSize",""]],"trait":[["LocalLimits",""]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["vectored_copy","Copies vectored slices from one slice into another"]]};
